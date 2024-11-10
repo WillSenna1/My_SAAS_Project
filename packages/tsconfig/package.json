@@ -1,0 +1,7 @@
+{
+    "name": "@saas/tsconfig",
+    "version": "1.0.0",
+    "dependencies": {
+        "@saas/tsconfig": "file:"
+    }
+}
